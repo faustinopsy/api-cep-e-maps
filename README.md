@@ -14,7 +14,7 @@ Dar exemplos
 
 ### 🔧 Imagem
 
-![alt text](https://raw.githubusercontent.com/FaustinoPsy/API-CEP-API-MAPAS/main/img/cep.png)
+![API maps](https://github.com/FaustinoPsy/API-CEP-API-MAPAS/blob/main/img/cep.JPG)
 
 ## 📦 Em que usar
 
