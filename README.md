@@ -8,10 +8,6 @@ ao consultar o cep o mapa também é chamado, um formulário simples que busca a
 
 ter a chave da API do google maps.
 
-```
-Dar exemplos
-```
-
 ### 🔧 Imagem
 
 ![API maps](https://github.com/FaustinoPsy/API-CEP-API-MAPAS/blob/main/img/cep.JPG)
@@ -23,8 +19,8 @@ Atualmente sistemas de cadastros de incidencia de crimes, ou de focos de dengue,
 ## 🛠️ Estrutura
 ```
 -index.html
---css
---js
+--/css
+--/js
 ```
 no index tem o formulário e o javascript responsavel por consultar o CEP, na pasta js tem o arquivo mapa que é responsavel por perceber as modificaç~eos no formulário e chamar o mapa a ser carregado, na pasta css possui o arquivo de estilo para o bloco de mapa
 
