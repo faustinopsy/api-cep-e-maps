@@ -22,7 +22,7 @@ Atualmente sistemas de cadastros de incidencia de crimes, ou de focos de dengue,
 --/css
 --/js
 ```
-no index tem o formulário e o javascript responsavel por consultar o CEP, na pasta js tem o arquivo mapa que é responsavel por perceber as modificaç~eos no formulário e chamar o mapa a ser carregado, na pasta css possui o arquivo de estilo para o bloco de mapa
+no index tem o formulário e o javascript responsavel por consultar o CEP, na pasta js tem o arquivo mapa que é responsavel por perceber as modificações no formulário e chamar o mapa a ser carregado, na pasta css possui o arquivo de estilo para o bloco de mapa
 
 ## 📌 APIs
 ViaCep e Google Maps
